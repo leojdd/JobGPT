@@ -1,5 +1,5 @@
 # JobGPT (back-end)
-Job GPT is an job interview simulator to practice with many area and many languages
+Job GPT is an job interview simulator *using artificial intelligence of OpenAi* to practice with many area and many languages
 
 ## Owner: https://linktr.ee/leonardodejesus
 
